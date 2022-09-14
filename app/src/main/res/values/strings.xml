@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E_Commarce</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_code">Enter Your Code</string>
+    <string name="login">login</string>
+    <string name="search_fragment">search fragment</string>
+</resources>
